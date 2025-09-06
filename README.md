@@ -5,12 +5,12 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@Imtiazmaruf)
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Shariful+Islam+✌️;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Imtiaz+Rahman+✌️;" />
 </h1>
 
 <p align="center"> 
    <samp>    
-      「 I am a MERN stack web appplication developer from <b>Bangladesh</b> 」
+      「 I am a Flutter developer from <b>Bangladesh</b> 」
       <br>
       <br>
    </samp>
