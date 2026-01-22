@@ -43,21 +43,7 @@
 
 <h1>Use To Code</h1>
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=whitehttps://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-3A33D1?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -85,8 +71,8 @@
       href="https://github.com/Imtiazmaruf?tab=repositories" 
       target="_blank">
          <img 
-            alt="Shariful Repositories" 
-            title="Shariful Repositories" 
+            alt="Imtiaz Repositories" 
+            title="Imtiaz Repositories" 
             src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"
          />
    </a>
@@ -104,7 +90,7 @@
    <a href="https://github.com/Imtiazmaruf">
       <img 
          src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiazmaruf&theme=radical&border=7F3FBF&background=0D1117" 
-         alt="Shariful's GitHub streak" 
+         alt="Imtiaz's GitHub streak" 
          width="70%"
       />
    </a>
@@ -114,7 +100,7 @@
    <a href="https://github.com/Imtiazmaruf">
       <img 
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imtiazmaruf&theme=radical" 
-         alt="Sk Shariful Islam's GitHub Contribution" 
+         alt="<MD Imtiaz Rahman's GitHub Contribution" 
          width="100%" 
       />
    </a>
@@ -123,7 +109,7 @@
 <p style="display: flex; align-items: center; justify-content: center"> 
    <a>
       <img 
-         alt="Shariful's Github Stats" 
+         alt="Imtiaz's Github Stats" 
          src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Imtiazmaruf&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  
          height="220px" 
          width="49.7%" 
@@ -131,7 +117,7 @@
    </a>
    <a>
       <img 
-         alt="Shariful's Top Languages" 
+         alt="Imtiaz's Top Languages" 
          src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Imtiazmaruf&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
          height="192px" 
          width="49.8%" 
@@ -140,7 +126,7 @@
 </p>
 
 <a align="center" href="https://github.com/Imtiazmaruf">
-   <img alt="Shariful's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Imtiazmaruf&custom_title=Md.%20Shariful%20Islam's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true" alt="Shariful's Activity Graph" />
+   <img alt="Imtiaz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Imtiazmaruf&custom_title=Md.%20Shariful%20Islam's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true" alt="Shariful's Activity Graph" />
 </a>
 
 <br />
