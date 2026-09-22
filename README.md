@@ -54,7 +54,7 @@
 * 🔥 Working with Firebase services
 * 💳 Experience with payment gateway integration
 * 🚀 Publishing applications to Google Play & Apple App Store
-* 🌱 Currently learning backend development with Node.js
+* 🌱 Currently learning backend development with Django
 * 🤝 Open to collaborating on interesting mobile projects
 
 <br clear="right"/>
